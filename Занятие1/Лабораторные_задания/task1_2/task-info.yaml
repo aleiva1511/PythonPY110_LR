@@ -4,10 +4,10 @@ files:
   visible: true
   placeholders:
   - offset: 149
-    length: 25
+    length: 5
     placeholder_text: '...  # TODO найти длину самого длинного слова'
     initial_state:
-      length: 45
+      length: 25
       offset: 149
     initialized_from_dependency: false
     selected: true
